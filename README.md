@@ -8,8 +8,4 @@ No, the time interval should be given by the user.
 
 ## What are the modules used?
 
-datetime
-random
-time
-tkinter
-ToastNotifier
+datetime, random, time, tkinter, ToastNotifier
